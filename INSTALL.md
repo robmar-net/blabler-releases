@@ -2,15 +2,23 @@
 
 ## Ubuntu / Debian
 
-Choose the package that matches your system architecture:
+Choose the package that matches both your system architecture and Ubuntu release:
 
-- `*_amd64.deb` for `x86_64` / `amd64`
-- `*_arm64.deb` for `arm64` / `aarch64`
+- `*_amd64_ubuntu22.04.deb` for Ubuntu 22.04 on `x86_64` / `amd64`
+- `*_arm64_ubuntu22.04.deb` for Ubuntu 22.04 on `arm64` / `aarch64`
+- `*_amd64_ubuntu24.04.deb` for Ubuntu 24.04 on `x86_64` / `amd64`
+- `*_arm64_ubuntu24.04.deb` for Ubuntu 24.04 on `arm64` / `aarch64`
 
 Check your architecture with:
 
 ```bash
 dpkg --print-architecture
+```
+
+Check your Ubuntu release with:
+
+```bash
+lsb_release -rs
 ```
 
 Install with:
