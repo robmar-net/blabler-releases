@@ -4,7 +4,7 @@ This repository publishes public release assets for **Blabler Desktop**.
 
 ## What is here
 
-- Linux package: `.deb`
+- Linux packages: `.deb` for `amd64` and `arm64` when available
 - macOS package: `.dmg`
 - Windows package: `.msi`
 - `SHA256SUMS.txt` for release asset verification
