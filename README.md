@@ -1,6 +1,12 @@
 # Blabler Desktop Releases
 
-This repository publishes public release assets for **Blabler Desktop**.
+Downloads for **Blabler**:
+
+- **Android**: [Google Play](https://play.google.com/store/apps/details?id=net.robmar.blabler.android&pli=1)
+- **iPhone / iPad (test build)**: [TestFlight](https://testflight.apple.com/join/GHcCwDW3)
+- **Desktop**: download assets from the [latest release](https://github.com/robmar-net/blabler-releases/releases/latest)
+
+For desktop install steps, see [INSTALL.md](./INSTALL.md).
 
 ## What is here
 

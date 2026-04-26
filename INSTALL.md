@@ -1,5 +1,10 @@
 # Install
 
+Other platforms:
+
+- **Android**: [Google Play](https://play.google.com/store/apps/details?id=net.robmar.blabler.android&pli=1)
+- **iPhone / iPad (test build)**: [TestFlight](https://testflight.apple.com/join/GHcCwDW3)
+
 ## Ubuntu / Debian
 
 Choose the package that matches both your system architecture and Ubuntu release:
