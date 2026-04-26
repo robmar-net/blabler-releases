@@ -11,6 +11,7 @@ For desktop install steps, see [INSTALL.md](./INSTALL.md).
 ## What is here
 
 - Linux packages: `.deb` for Ubuntu 22.04 and 24.04 on `amd64` and `arm64`
+- Linux portable packages: `.AppImage` for `amd64` and `arm64`
 - macOS package: `.dmg`
 - Windows package: `.msi`
 - `SHA256SUMS.txt` for release asset verification
@@ -26,3 +27,4 @@ For desktop install steps, see [INSTALL.md](./INSTALL.md).
 - Public releases contain distributable artifacts only, not source code or internal project files
 - If a platform build is marked experimental in release notes, prefer Linux for the most stable path
 - Linux package filenames include both architecture and Ubuntu series so you can choose the matching installer
+- AppImage is the simplest Linux option when you want a single portable file instead of a system install

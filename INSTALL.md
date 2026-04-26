@@ -32,6 +32,20 @@ Install with:
 sudo apt install ./package-name.deb
 ```
 
+## Linux AppImage
+
+Choose the file that matches your CPU architecture:
+
+- `*_amd64.AppImage` for `x86_64` / `amd64`
+- `*_arm64.AppImage` for `arm64` / `aarch64`
+
+Run it with:
+
+```bash
+chmod +x Blabler.AppImage
+./Blabler.AppImage
+```
+
 ## macOS
 
 Open the `.dmg` file and move **Blabler Desktop** to **Applications**.
