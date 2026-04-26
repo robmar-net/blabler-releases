@@ -1,4 +1,4 @@
-# Blabler Releases
+# Blabler Desktop Releases
 
 Downloads for **Blabler**:
 
